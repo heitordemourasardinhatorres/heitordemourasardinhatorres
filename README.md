@@ -2,7 +2,7 @@
 
 **`Desenvolvedor & Empreendedor Digital`**
 
-Tenho 18 anos, sou de Taubaté-SP e co-fundador da [Ox Company](https://github.com/heitordemourasardinhatorres), agência focada em tráfego pago (Meta/Google Ads), desenvolvimento web orientado a conversão e automação comercial com CRM e WhatsApp. Concluí o Técnico em Informática pelo Colégio UNITAU em 2025 e atualmente curso Sistemas de Informação na UNITAU (2026–2029). Gosto de transformar problemas reais em soluções digitais funcionais e escaláveis.
+Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https://github.com/heitordemourasardinhatorres), agência focada em tráfego pago (Meta/Google Ads), desenvolvimento web orientado a conversão e automação comercial. Concluí o Técnico em Informática pelo Colégio UNITAU em 2025 e atualmente curso Sistemas de Informação na UNITAU (2026–2029). Gosto de transformar problemas reais em soluções digitais funcionais e escaláveis.
 
 <p align="left">
   <a href="https://heitor-dev.vercel.app/" target="_blank">
