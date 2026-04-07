@@ -78,7 +78,8 @@ Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https
 
 ---
 
-📊 Estatísticas
+### 📊 Estatísticas
+ 
 <p>
   <img 
     align="left" 
@@ -94,11 +95,14 @@ Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https
     src="https://github-readme-stats-fork-jade.vercel.app/api/top-langs/?username=heitordemourasardinhatorres&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+ 
 <br/>
 <br/>
+ 
 <p>
   <img 
     alt="GitHub Streak" 
     src="https://streak-stats.demolab.com?user=heitordemourasardinhatorres&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
   />
 </p>
+ 
