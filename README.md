@@ -36,15 +36,14 @@ Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https
 </p>
 
 ---
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Armário Inteligente](https://github.com/heitordemourasardinhatorres/armario-inteligente) | Plataforma web para o setor de moda, apresentada no CICTED 2024 | HTML, CSS, JS, PHP, SQL |
-| [ZigZag](https://github.com/ZigZagTTE/zigzagprojeto) | Plataforma de delivery para o setor de alfaiataria com mapa interativo, alinhada aos ODS 4 e 9 da ONU. CICTED 2025 | HTML, CSS, JS, PHP, SQL, C# |
-| [Portfólio Pessoal](https://heitor-dev.vercel.app/) | Portfólio desenvolvido com Nuxt 3 e Vue 3, com foco em SEO e performance | Nuxt 3, Vue 3 |
-
+### 📊 Estatísticas
+ <br> 
+<p>
+  <img 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=heitordemourasardinhatorres&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+  />
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -66,6 +65,18 @@ Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https
 <br/>
 
 ---
+
+
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Armário Inteligente](https://github.com/heitordemourasardinhatorres/armario-inteligente) | Plataforma web para o setor de moda, apresentada no CICTED 2024 | HTML, CSS, JS, PHP, SQL |
+| [ZigZag](https://github.com/ZigZagTTE/zigzagprojeto) | Plataforma de delivery para o setor de alfaiataria com mapa interativo, alinhada aos ODS 4 e 9 da ONU. CICTED 2025 | HTML, CSS, JS, PHP, SQL, C# |
+| [Portfólio Pessoal](https://heitor-dev.vercel.app/) | Portfólio desenvolvido com Nuxt 3 e Vue 3, com foco em SEO e performance | Nuxt 3, Vue 3 |
+
+
 
 ### 🎓 Formação & Certificações
 
