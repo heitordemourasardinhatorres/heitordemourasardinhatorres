@@ -2,7 +2,7 @@
 
 **`Desenvolvedor & Empreendedor Digital`**
 
-Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https://oxcompany.com.br), agência focada em tráfego pago (Meta/Google Ads), desenvolvimento web orientado a conversão e automação comercial. Concluí o Técnico em Informática pelo Colégio UNITAU em 2025 e atualmente curso Sistemas de Informação na UNITAU (2026–2029). Gosto de transformar problemas reais em soluções digitais funcionais e escaláveis.
+Tenho 18 anos, sou do interior de São Paulo. Concluí o Técnico em Informática pelo Colégio UNITAU em 2025 e atualmente curso Sistemas de Informação na UNITAU (2026–2029). Gosto de transformar problemas reais em soluções digitais funcionais e escaláveis.
 
 <p align="left">
   <a href="https://heitor-dev.vercel.app/" target="_blank">
@@ -51,7 +51,6 @@ Tenho 18 anos, sou do interior de São Paulo e co-fundador da [Ox Company](https
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
 <img align="left" alt="Nuxt" title="Nuxt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
